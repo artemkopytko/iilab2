@@ -1,0 +1,35 @@
+D:/Google Drive/2 lab/FunctionExecute/FunctionExecute/bin/Debug/FunctionExecute.exe.config
+D:/Google Drive/2 lab/FunctionExecute/FunctionExecute/bin/Debug/FunctionExecute.exe
+D:/Google Drive/2 lab/FunctionExecute/FunctionExecute/bin/Debug/FunctionExecute.pdb
+D:/Google Drive/2 lab/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.csprojAssemblyReference.cache
+D:/Google Drive/2 lab/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.csproj.CoreCompileInputs.cache
+D:/Google Drive/2 lab/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.exe
+D:/Google Drive/2 lab/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.pdb
+C:/Users/ZpmPower/Desktop/2 lab/FunctionExecute/FunctionExecute/bin/Debug/FunctionExecute.exe.config
+C:/Users/ZpmPower/Desktop/2 lab/FunctionExecute/FunctionExecute/bin/Debug/FunctionExecute.exe
+C:/Users/ZpmPower/Desktop/2 lab/FunctionExecute/FunctionExecute/bin/Debug/FunctionExecute.pdb
+C:/Users/ZpmPower/Desktop/2 lab/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.csprojAssemblyReference.cache
+C:/Users/ZpmPower/Desktop/2 lab/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.csproj.CoreCompileInputs.cache
+C:/Users/ZpmPower/Desktop/2 lab/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.exe
+C:/Users/ZpmPower/Desktop/2 lab/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.pdb
+D:/Google Drive/FunctionExecute/FunctionExecute/bin/Debug/FunctionExecute.exe.config
+D:/Google Drive/FunctionExecute/FunctionExecute/bin/Debug/FunctionExecute.exe
+D:/Google Drive/FunctionExecute/FunctionExecute/bin/Debug/FunctionExecute.pdb
+D:/Google Drive/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.csprojAssemblyReference.cache
+D:/Google Drive/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.csproj.CoreCompileInputs.cache
+D:/Google Drive/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.exe
+D:/Google Drive/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.pdb
+/Users/artemkopytko/Downloads/FunctionExecute/FunctionExecute/bin/Debug/FunctionExecute.exe.config
+/Users/artemkopytko/Downloads/FunctionExecute/FunctionExecute/bin/Debug/FunctionExecute.exe
+/Users/artemkopytko/Downloads/FunctionExecute/FunctionExecute/bin/Debug/FunctionExecute.pdb
+/Users/artemkopytko/Downloads/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.csprojAssemblyReference.cache
+/Users/artemkopytko/Downloads/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.csproj.CoreCompileInputs.cache
+/Users/artemkopytko/Downloads/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.exe
+/Users/artemkopytko/Downloads/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.pdb
+/Users/artemkopytko/University/FunctionExecute/FunctionExecute/bin/Debug/FunctionExecute.exe.config
+/Users/artemkopytko/University/FunctionExecute/FunctionExecute/bin/Debug/FunctionExecute.exe
+/Users/artemkopytko/University/FunctionExecute/FunctionExecute/bin/Debug/FunctionExecute.pdb
+/Users/artemkopytko/University/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.csprojAssemblyReference.cache
+/Users/artemkopytko/University/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.csproj.CoreCompileInputs.cache
+/Users/artemkopytko/University/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.exe
+/Users/artemkopytko/University/FunctionExecute/FunctionExecute/obj/Debug/FunctionExecute.pdb
